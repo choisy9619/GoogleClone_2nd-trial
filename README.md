@@ -1,1 +1,2 @@
-# Googleweb_trial2
+# GoogleClne_2nd Trial
+HTML & CSS 독학중
